@@ -1,4 +1,4 @@
-# Web scraping cuempleaños famosos
+# Web scraping efecto cumpleaños
 Web scraping para obtener datos del mes de nacimiento de famosos.  
 Página web: [https://www.famousbirthdays.com/](https://www.famousbirthdays.com/)
 - Primero obtiene los links de las categorias de famosos que tiene la web
