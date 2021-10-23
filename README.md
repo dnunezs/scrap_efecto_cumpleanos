@@ -7,4 +7,4 @@ Página web: [https://www.famousbirthdays.com/](https://www.famousbirthdays.com/
 - Crea un data set
 - Grafica el resultado
 
-[++Resultado en Twitter++](https://twitter.com/_Daniel_Nunez/status/1451866471257321475)
+[Resultado en Twitter](https://twitter.com/_Daniel_Nunez/status/1451866471257321475)
